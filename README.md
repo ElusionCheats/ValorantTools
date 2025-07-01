@@ -1,9 +1,17 @@
-# 🎯 Valorant Cheat – Undetected Valorant Aimbot, ESP, and Unlock All Tool
+# 🎯 Valorant Cheat with Undetected Valorant Aimbot, ESP, and Unlock All Tool
+
 **Valorant Cheat** is an advanced, undetected external toolset designed to showcase how cheat systems can be built for Valorant. This educational project highlights how modern cheat techniques like **Valorant Aimbot**, **ESP**, **Unlock All Tool**, **HWID Spoofer**, and radar overlays function. It’s designed for developers, reverse engineers, and those studying anti-cheat systems.
 
-[![Join Our Discord](https://img.shields.io/discord/1180734837510897755?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.gg/SfkrK75HNj)
-
-[![Valorant Cheat](https://github.com/valorant-undetected/valorant-best-cheat/blob/main/valorant%20cheat.jpeg)](https://discord.gg/SfkrK75HNj) 
+<p align="center">
+  <a href="https://discord.gg/SfkrK75HNj" target="_blank">
+    <img src="https://img.shields.io/badge/🚀 Get Access-Click Here-blue?style=for-the-badge&logo=callofduty" alt="Get Access">
+  </a>
+  <a href="https://discord.gg/SfkrK75HNj" target="_blank">
+    <img src="https://img.shields.io/badge/💬 Join Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
+  </a>
+  <img src="https://img.shields.io/badge/✅ User Reviews-100%25%20Positive-brightgreen?style=for-the-badge" alt="User Reviews">
+  <img src="https://img.shields.io/badge/🛡️ Status-Undetected-success?style=for-the-badge" alt="Status">
+</p>
 
 This project supports **Windows 10/11**, works with any **CPU or motherboard**, and offers full **Fullscreen** and **StreamerMode** support. Built with modular code and a focus on stealth, the Valorant Cheat system includes offset compensation for patches and supports legacy versions of Valorant.
 
